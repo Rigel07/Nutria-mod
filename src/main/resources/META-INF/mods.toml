@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="nutriamod"
+version="1.0.0"
+displayName="Nutrias"
+description='''
+Añade la nutria: una criatura adorable que juega en el agua, se domestica con salmón,
+es inmortal cuando es tuya, te defiende y sube de nivel de amistad hasta pegar como una espada de diamante.
+'''
+
+[[dependencies.nutriamod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.nutriamod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

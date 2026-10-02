@@ -1,0 +1,10 @@
+{
+  "entity.nutriamod.otter": "Otter",
+  "item.nutriamod.otter_spawn_egg": "Otter Spawn Egg",
+  "message.nutriamod.stay": "The otter will stay here",
+  "message.nutriamod.follow": "The otter will follow you",
+  "message.nutriamod.not_hungry": "The otter isn't hungry right now",
+  "message.nutriamod.friendship": "Otter · Friendship: level %1$s/%2$s · Damage: %3$s",
+  "message.nutriamod.level_up": "Your otter reached friendship level %1$s!",
+  "message.nutriamod.max_level": "Your otter reached max friendship! It now hits like a diamond sword"
+}

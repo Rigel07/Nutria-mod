@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#nutriamod:otter_biomes",
+  "spawners": {
+    "type": "nutriamod:otter",
+    "weight": 20,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "entity.nutriamod.otter": "Nutria",
+  "item.nutriamod.otter_spawn_egg": "Huevo generador de nutria",
+  "message.nutriamod.stay": "La nutria se quedará quieta",
+  "message.nutriamod.follow": "La nutria te seguirá",
+  "message.nutriamod.not_hungry": "La nutria no tiene hambre ahora mismo",
+  "message.nutriamod.friendship": "Nutria · Amistad: nivel %1$s/%2$s · Daño: %3$s",
+  "message.nutriamod.level_up": "¡Tu nutria ha subido a amistad nivel %1$s!",
+  "message.nutriamod.max_level": "¡Tu nutria ha llegado al nivel máximo de amistad! Ahora pega como una espada de diamante"
+}
